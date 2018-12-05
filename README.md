@@ -1,1 +1,1 @@
-# Python Sale System demo
+# inventory-management-system1.0
